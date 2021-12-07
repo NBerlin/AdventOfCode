@@ -218,3 +218,5 @@ dmypy.json
 .history
 
 # End of https://www.gitignore.io/api/python,intellij,visualstudiocode
+.DS_Store
+.DS_Store
